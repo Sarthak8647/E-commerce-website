@@ -9,4 +9,4 @@ Shopping Cart: Add, remove, and view items in the cart.
 Secure Checkout: Safe and efficient payment system integrated with popular payment gateways.
 Admin Panel: Admin users can manage products, view customer orders, and track inventory.
 Responsive Design: Optimized for both desktop and mobile devices.
-Technologies Used:
+
